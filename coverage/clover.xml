@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1644624980337" clover="3.2.0">
-  <project timestamp="1644624980337" name="All files">
+<coverage generated="1644625043153" clover="3.2.0">
+  <project timestamp="1644625043153" name="All files">
     <metrics statements="7" coveredstatements="7" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1" elements="9" coveredelements="9" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
     <file name="signup.ts" path="/home/zeth/Projects/Estudos/Node/RodrigoManguinho/CLEAN_NODE_API/src/presentation/controllers/signup.ts">
       <metrics statements="7" coveredstatements="7" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
