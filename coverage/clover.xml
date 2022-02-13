@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1644795686736" clover="3.2.0">
-  <project timestamp="1644795686736" name="All files">
-    <metrics statements="27" coveredstatements="21" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2" elements="32" coveredelements="26" complexity="0" loc="27" ncloc="27" packages="3" files="4" classes="4"/>
+<coverage generated="1644795833485" clover="3.2.0">
+  <project timestamp="1644795833485" name="All files">
+    <metrics statements="25" coveredstatements="21" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2" elements="30" coveredelements="26" complexity="0" loc="25" ncloc="25" packages="2" files="3" classes="3"/>
     <package name="controllers.signup">
       <metrics statements="22" coveredstatements="18" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
       <file name="signup-protocols.ts" path="/home/zeth/Projects/Estudos/Node/RodrigoManguinho/CLEAN_NODE_API/src/presentation/controllers/signup/signup-protocols.ts">
@@ -16,21 +16,21 @@
         <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
-        <line num="10" count="9" type="stmt"/>
-        <line num="11" count="9" type="stmt"/>
-        <line num="15" count="9" type="stmt"/>
-        <line num="16" count="9" type="stmt"/>
-        <line num="17" count="9" type="stmt"/>
-        <line num="18" count="30" type="cond" truecount="1" falsecount="0"/>
+        <line num="10" count="10" type="stmt"/>
+        <line num="11" count="10" type="stmt"/>
+        <line num="15" count="10" type="stmt"/>
+        <line num="16" count="10" type="stmt"/>
+        <line num="17" count="10" type="stmt"/>
+        <line num="18" count="34" type="cond" truecount="1" falsecount="0"/>
         <line num="19" count="4" type="stmt"/>
-        <line num="22" count="5" type="stmt"/>
-        <line num="23" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="22" count="6" type="stmt"/>
+        <line num="23" count="6" type="cond" truecount="1" falsecount="0"/>
         <line num="24" count="1" type="stmt"/>
-        <line num="26" count="4" type="stmt"/>
-        <line num="27" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="4" type="cond" truecount="1" falsecount="0"/>
         <line num="28" count="1" type="stmt"/>
-        <line num="30" count="2" type="stmt"/>
-        <line num="36" count="1" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
       </file>
     </package>
     <package name="errors">
@@ -40,14 +40,6 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
-      </file>
-    </package>
-    <package name="protocols">
-      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="index.ts" path="/home/zeth/Projects/Estudos/Node/RodrigoManguinho/CLEAN_NODE_API/src/presentation/protocols/index.ts">
-        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="0" type="stmt"/>
-        <line num="2" count="0" type="stmt"/>
       </file>
     </package>
   </project>
