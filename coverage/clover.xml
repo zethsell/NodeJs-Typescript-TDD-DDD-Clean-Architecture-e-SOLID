@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1644784760970" clover="3.2.0">
-  <project timestamp="1644784760970" name="All files">
-    <metrics statements="17" coveredstatements="17" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4" elements="23" coveredelements="23" complexity="0" loc="17" ncloc="17" packages="2" files="2" classes="2"/>
+<coverage generated="1644784949979" clover="3.2.0">
+  <project timestamp="1644784949979" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2" elements="20" coveredelements="20" complexity="0" loc="16" ncloc="16" packages="2" files="2" classes="2"/>
     <package name="controllers">
-      <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
       <file name="signup.ts" path="/home/zeth/Projects/Estudos/Node/RodrigoManguinho/CLEAN_NODE_API/src/presentation/controllers/signup.ts">
-        <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
-        <line num="6" count="1" type="stmt"/>
-        <line num="8" count="1" type="stmt"/>
-        <line num="12" count="7" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="15" count="7" type="stmt"/>
         <line num="16" count="7" type="stmt"/>
         <line num="17" count="7" type="stmt"/>
-        <line num="18" count="7" type="stmt"/>
-        <line num="19" count="22" type="cond" truecount="1" falsecount="0"/>
-        <line num="20" count="4" type="stmt"/>
-        <line num="23" count="3" type="stmt"/>
-        <line num="24" count="2" type="cond" truecount="1" falsecount="0"/>
-        <line num="25" count="1" type="stmt"/>
-        <line num="28" count="1" type="stmt"/>
+        <line num="18" count="22" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="23" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="helpers">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-      <file name="http-helpers.ts" path="/home/zeth/Projects/Estudos/Node/RodrigoManguinho/CLEAN_NODE_API/src/presentation/helpers/http-helpers.ts">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+    <package name="errors">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="/home/zeth/Projects/Estudos/Node/RodrigoManguinho/CLEAN_NODE_API/src/presentation/errors/index.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
-        <line num="4" count="5" type="stmt"/>
-        <line num="9" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
       </file>
     </package>
   </project>
